@@ -1,2 +1,2 @@
 # git_test
-Un test de git via le tuto OpenClassRoom
+Un test de git via le tuto OpenClassRoom qui se passe bien
